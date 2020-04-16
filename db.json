@@ -5,8 +5,8 @@
     { "id": 3, "date": "05/11/2020" }
   ],
   "visitTime": [
-    { "id": 1, "time": "10 AM- 12 PM", "postId": 1 },
-    { "id": 2, "time": "3 PM- 5 PM", "postId": 1 }
+    { "id": 1, "time": "10 AM- 12 PM" },
+    { "id": 2, "time": "3 PM- 5 PM" }
   ]
  
 }
